@@ -1,4 +1,6 @@
-## Hi there 👋
+
+
+<H2>... JUNE2024 </H2>
 
 <!--
 **ProfessorLucasCalu/ProfessorLucasCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="01.PNG">
+
+<img src="02.PNG">
+
+## Novo Git ...
