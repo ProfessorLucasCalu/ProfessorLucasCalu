@@ -1,6 +1,6 @@
 
 
-<H2>... JUNE2024 </H2>
+<H2>... JUNE 2024 </H2>
 
 <!--
 **ProfessorLucasCalu/ProfessorLucasCalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
